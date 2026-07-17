@@ -1,4 +1,4 @@
-<img width="175" height="26" alt="image" src="https://github.com/user-attachments/assets/545a81ea-1994-4bbe-839f-bbb23640e45f" /># KDevSec
+# KDevSec
 
 安全研发组织 —— AI 数字员工、Claude Code 插件生态、安全加固方案与研发流程工程化。
 
